@@ -14,8 +14,13 @@ I am currently pursuing a Bachelor of Science in Computer Engineering at Purdue 
 - 📊 Data Analysis: I have a keen interest in data analytics and machine learning, working on projects that involve deep learning and NLP.
 - 🔧 Computing Hardware: My projects often involve optimizing performance using advanced computing hardware.
 
-- 📫 How to reach me: Feel free to explore my repositories and projects. Connect with me on LinkedIn or reach out via email at aarav4604@gmail.com. Let's collaborate and innovate together!
-- ⚡ Fun fact: Outside of my professional endeavors, I have a strong passion for calisthenics and biking. These activities help me stay balanced and grounded, supporting my competitive nature and the urge to finish what I start. They provide a healthy outlet for stress and keep me motivated to tackle new challenges both personally and professionally.
+**Connect with Me:**
+
+- Feel free to explore my repositories and projects. Connect with me on LinkedIn or reach out via email at aarav4604@gmail.com. Let's collaborate and innovate together!
+
+**Fun fact:**
+
+- Outside of my professional endeavors, I have a strong passion for calisthenics and biking. These activities help me stay balanced and grounded, supporting my competitive nature and the urge to finish what I start. They provide a healthy outlet for stress and keep me motivated to tackle new challenges both personally and professionally.
 
 
 
